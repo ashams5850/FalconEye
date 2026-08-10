@@ -35,7 +35,23 @@ Working MVP / Prototype
 
 ### Demo
 
-Coming soon.
+A working prototype of FalconEye has been developed and tested.
+
+A demonstration video will be added soon.
+### System Architecture
+
+FalconEye integrates multiple hardware and software components into a unified assistive system.
+
+- Camera → captures the surrounding environment
+- Raspberry Pi 5 → performs local processing and AI inference
+- Computer Vision → detects objects and obstacles
+- OCR → reads printed text
+- Ultrasonic Sensors → provide additional obstacle-distance information
+- GPS → provides location assistance
+- Voice Assistant → delivers information through audio output
+
+The system is designed to perform its core processing locally without requiring an internet connection.
+The system is designed to perform its core processing locally without requiring an internet connection.
 
 ### Team
 
