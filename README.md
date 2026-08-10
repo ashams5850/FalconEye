@@ -1,5 +1,7 @@
 # FalconEye
+
 ![FalconEye Smart Helmet](./IMG-20260727-WA0015.jpg)
+
 ## AI-Powered Smart Helmet for the Visually Impaired
 
 FalconEye is an AI-powered smart helmet designed to assist visually impaired people in navigating their surroundings more safely and independently.
@@ -38,6 +40,7 @@ Working MVP / Prototype
 A working prototype of FalconEye has been developed and tested.
 
 A demonstration video will be added soon.
+
 ### System Architecture
 
 FalconEye integrates multiple hardware and software components into a unified assistive system.
@@ -51,8 +54,31 @@ FalconEye integrates multiple hardware and software components into a unified as
 - Voice Assistant → delivers information through audio output
 
 The system is designed to perform its core processing locally without requiring an internet connection.
-The system is designed to perform its core processing locally without requiring an internet connection.
+
+### Technology Stack
+
+#### Hardware
+
+- Raspberry Pi 5
+- Raspberry Pi Camera
+- Ultrasonic Sensors
+- GPS Module
+- Speaker
+- Custom Power System
+
+#### Software & AI
+
+- Python
+- Computer Vision
+- Object Detection
+- OCR
+- Text-to-Speech
+- GPS Integration
+- Sensor Fusion
 
 ### Team
 
-FalconEye Project
+- Ahmed Ragab Ibrahim
+- Mohamed Sayed Soliman
+- Mariam Ashraf Ali
+- Marwa Mohamed Ibrahim
